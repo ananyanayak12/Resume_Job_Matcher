@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Data Analyst",
+    "description": "Python, SQL, Excel, Data Cleaning, Power BI, Tableau"
+  },
+  {
+    "title": "Python Developer",
+    "description": "Python, Flask, REST APIs, Git, Unit Testing"
+  },
+  {
+    "title": "Java Backend Developer",
+    "description": "Java, Spring Boot, MySQL, APIs, Microservices"
+  },
+  {
+    "title": "Frontend Developer",
+    "description": "HTML, CSS, JavaScript, React, UI/UX"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Python, scikit-learn, pandas, model training, deployment"
+  }
+]
